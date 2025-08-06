@@ -1,0 +1,7 @@
+Flask
+python-dotenv
+requests
+websocket-client
+supabase
+asyncio
+gunicorn
