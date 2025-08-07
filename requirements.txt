@@ -1,7 +1,9 @@
-Flask
-python-dotenv
-requests
 websocket-client
+requests
+python-dotenv
+Flask
 supabase
-asyncio
+postgrest
 gunicorn
+chromadb
+sentence-transformers
