@@ -3,7 +3,4 @@ requests
 python-dotenv
 Flask
 supabase
-postgrest
 gunicorn
-chromadb
-sentence-transformers
