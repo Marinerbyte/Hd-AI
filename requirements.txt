@@ -1,6 +1,7 @@
-websocket-client
-requests
-python-dotenv
 Flask
-supabase
+Flask-SocketIO
+requests
+websocket-client
 gunicorn
+gevent
+gevent-websocket
