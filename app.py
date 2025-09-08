@@ -45,7 +45,7 @@ class Config:
     FLASK_SECRET_KEY = os.getenv("FLASK_SECRET_KEY", "a-very-secret-flask-key")
     HARDCODED_MASTER = "yasin"
     LOGIN_URL = "https://api.howdies.app/login"
-    WS_URL = "wss://app.howdies.app/"
+    WS_URL = "wss://howdies.app:3000/"
     ROOM_JOIN_DELAY_SECONDS = 2
     REJOIN_ON_KICK_DELAY_SECONDS = 3
     INITIAL_RECONNECT_DELAY = 10
